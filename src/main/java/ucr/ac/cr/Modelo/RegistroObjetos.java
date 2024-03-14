@@ -6,5 +6,5 @@ package ucr.ac.cr.Modelo;
 
 
 public class RegistroObjetos {
-    
+    //xffxfxfxfxfxfxfx
 }
